@@ -1,4 +1,4 @@
 # EventAp. FirstAndroidApppRepo
 
-Added bottom navigation functionality 
+Added bottom navigation functionality for event app .
 
